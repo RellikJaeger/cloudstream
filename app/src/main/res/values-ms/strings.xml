@@ -1,2 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources/>
+<resources>
+    <string name="all_languages_preference">Semua bahasa</string>
+    <string name="skip_type_format" formatted="true">Langkau %s</string>
+    <string name="player_settings_play_in_browser">Pelayar web</string>
+    <string name="history">Sejarah</string>
+    <string name="clear_history">Kosongkan sejarah</string>
+    <string name="skip_type_intro">Pengenalan</string>
+    <string name="skip_type_creddits">Kredit</string>
+    <string name="skip_type_mixed_op">Pembukaan bercampur</string>
+    <string name="skip_type_ed">Penamat</string>
+    <string name="skip_type_op">Pembukaan</string>
+    <string name="update_notification_installing">Memasang kemaskini aplikasi…</string>
+    <string name="update_notification_downloading">Memuat turun kemaskini aplikasi…</string>
+    <string name="no">Tidak</string>
+    <string name="yes">Ya</string>
+    <string name="confirm_exit_dialog">Adakah anda pasti anda ingin keluar\?</string>
+    <string name="action_remove_from_watched">Keluarkan daripada ditonton</string>
+    <string name="action_mark_as_watched">Tanda sebagai sudah ditonton</string>
+    <string name="enable_skip_op_from_database_des">Tunjukkan pop timbul yang dilangkau untuk pembukaan/pengakhiran</string>
+    <string name="update_notification_failed">Tidak dapat memasang versi aplikasi terkini</string>
+    <string name="clipboard_too_large">Terlalu banyak perkataan. Tidak dapat disimpan di papan klip.</string>
+    <string name="app_not_found_error">Aplikasi tidak ditemui</string>
+    <string name="skip_type_mixed_ed">Penamat bercampur</string>
+    <string name="skip_type_recap">Imbas kembali</string>
+</resources>
